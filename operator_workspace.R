@@ -9,7 +9,7 @@ library(dplyr) # for functions
 workflowId="d1ec2e9e12d64aa9017fc0e3fd3665aa"
 stepId="00c15bf0-0f80-11e7-c99d-8314550a4dd4"
 
-client = TercenClient$new("fnaji", "obama")
+client = TercenClient$new("xxxx", "yyyy")
 
 # create a Tercen client object using your username and password store in .Rprofile file
 # serviceUri points to local vagrant for testing
